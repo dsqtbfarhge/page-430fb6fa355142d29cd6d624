@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7e437b42861e69dbd39335c0",
+  "owner": "dsqtbfarhge",
+  "repo": "page-430fb6fa355142d29cd6d624",
+  "title": "花栗鼠",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "430fb6fa355142d29cd6d624",
+      "a": "花栗鼠",
+      "b": "2027官方最新地址导航",
+      "entity": "花栗鼠",
+      "brand": "花栗鼠",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c0b12be2ca23545384793d1f2bdd75a6a39242ba3540c8d27fac3c7b0de7e283",
+      "content": {
+        "primary_entity": "花栗鼠",
+        "keyword1": "花栗鼠",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，订阅读取更顺畅。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "按设备与流量需求选择花栗鼠套餐，连接更稳定。",
+          "AI_CLOSING_TITLE": "选好套餐即刻使用",
+          "AI_DESCRIPTION": "，面向需要稳定海外网络连接的用户，提供基础版、旗舰版与团队版三档套餐。基础版每月100GB流量支持3台设备，旗舰版每月300GB支持5台设备并优化游戏专线，团队版每月1000GB支持20台设备与定制路由。订阅周期灵活，按年付更划算，客户端订阅配置简单。",
+          "AI_FEATURES_INTRO": "围绕套餐容量、设备数量与订阅周期，花栗鼠给出清晰选择路径。",
+          "AI_FEATURES_TITLE": "花栗鼠套餐使用特点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合3台设备轻量使用，旗舰版每月300GB支持5台设备，团队版每月1000GB可20台设备共享。",
+          "AI_FEATURE_TEXT_2": "旗舰版优化IPLC专线，降低游戏延迟，团队版提供VIP高带宽节点与专属客户经理。",
+          "AI_FEATURE_TEXT_3": "按月或按年订阅，年付价格更划算，基础版¥150/年、旗舰版¥350/年、团队版¥850/年。",
+          "AI_FEATURE_TITLE_1": "套餐容量与设备",
+          "AI_FEATURE_TITLE_2": "线路与游戏加速",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "花栗鼠使用步骤",
+          "AI_HERO_INTRO": "花栗鼠提供海外网络加速服务，套餐覆盖个人与团队使用场景。基础版每月100GB适合3台设备，旗舰版每月300GB支持5台设备并优化游戏专线，团队版每月1000GB支持20台设备与定制路由。所有套餐按月或按年订阅，客户端订阅配置简单。",
+          "AI_HERO_SUBTITLE": "花栗鼠海外加速，套餐灵活选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人至团队需求",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线优化游戏加速",
+          "AI_HIGHLIGHT_3": "按月或按年订阅，年付更划算",
+          "AI_PLANS_INTRO": "基础版适合3台设备轻量使用，旗舰版支持5台设备并优化游戏速度，团队版支持20台设备与定制路由。按年付基础版¥150/年、旗舰版¥350/年、团队版¥850/年。",
+          "AI_PLANS_TITLE": "花栗鼠套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与客户端适配要求。",
+          "AI_STEP_TEXT_3": "按照对应客户端文档添加订阅信息，完成配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "花栗鼠加速套餐选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "花栗鼠套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "通常可在当前周期结束后切换档位，具体操作路径以购买后账户内提示为准，建议升级前确认剩余流量处理方式。",
+          "AI_FAQ_QUESTION_2": "基础版3台设备如何计算？",
+          "AI_FAQ_ANSWER_2": "同时在线设备合并计算，手机、电脑与平板均占名额，离线设备不长期占用，切换设备前建议先断开旧设备连接。",
+          "AI_FAQ_QUESTION_3": "旗舰版的IPLC专线有什么作用？",
+          "AI_FAQ_ANSWER_3": "IPLC专线针对游戏与实时通信优化延迟和抖动，适合对连接稳定性要求较高的场景，普通浏览也可使用其他节点。",
+          "AI_FAQ_QUESTION_4": "年付和月付价格差多少？",
+          "AI_FAQ_ANSWER_4": "基础版年付¥150相当于月付¥15的十个月价格，旗舰版年付¥350、团队版年付¥850同样比按月支付更省。",
+          "AI_FAQ_QUESTION_5": "订阅链接导入失败怎么办？",
+          "AI_FAQ_ANSWER_5": "先检查客户端版本是否支持当前订阅格式，再核对链接是否完整复制；仍失败可尝试手动更新节点或联系优先工单支持。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "foxraby.cn",
+    "host": "foxraby.cn"
+  },
+  "file_hashes": {
+    "index.html": "046d7201470800f5ddc9000c88be26714f54c55ff2fd4a886fe972a1b1d9f967",
+    "sitemap.xml": "2ae1e673581cf2a08762f0067f6601637abc1eba1a8657d5aa6657c58e995453",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a9ced58d83fbace2d3dd41e3109bd577766828ef14963600704b086c8d5feaf6",
+    "robots.txt": "74617cd291805a0cb2d36cb95896aebb6b22612c79a408252b70222549988cbf",
+    "a3da2c589458d0580549058ad3c9c194.txt": "aad6ce33958a0e66bfbfd44a2dba761c6f5cacb0aa31cca4193e61dae094a7b1"
+  },
+  "revision": "931a372cd9b49dc1bb06c0dcb8cf3048f5d369e2063f1ffaa49aae2f283e6259"
+}
